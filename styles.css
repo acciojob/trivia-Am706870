@@ -1,2 +1,9 @@
-
+quotation {
+	Max-width: Around 600px;
+	Margin: Approximately 10px;
+    Padding: Around 15px;
+    Border-left: 8px solid green color;
+	Background-color: #f8fffe;
+    Font-weight: Bold;
+}
 /* Your CSS Code here. */
